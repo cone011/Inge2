@@ -3,10 +3,12 @@ Inge2
 
 *******ENTREGAS *******
 
-LUNES 19 ====> ERS ACOTADO 
+LUNES 19 ====> CONFIRMACION DE GRUPOS 
 
 LUNES 26 ====> * ERS ACOTADO  
+
                * DER(ENTIDADES S/ ERS NUEVO)
+			   
 			   * MATRIZ DE RESPONSABILIDADES
 
 
